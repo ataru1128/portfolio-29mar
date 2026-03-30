@@ -47,7 +47,7 @@ body {
 /* FV */
 .fv {
     height: 100vh;
-    background: url('https://picsum.photos/1200/800') center/cover;
+    background-image:url("https://images.unsplash.com/photo-1495474472287-4d71bcdd2085");
     display: flex;
     align-items: center;
     justify-content: center;
